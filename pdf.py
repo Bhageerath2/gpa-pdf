@@ -1,4 +1,4 @@
-# importing required modules
+
 from PyPDF2 import PdfReader
 
 # creating a pdf reader object
